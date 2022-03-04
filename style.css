@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(242, 248, 250);
+    font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Shippori Mincho', serif;
+}
+/*section 1 start*/
+.section1{
+width: 100%;
+height: 100vh;
+background-color:#3309b0;
+display: flex;
+justify-content: space-around;
+}
+
+
+.content{
+width: 50%;
+
+margin-top: 130px;
+
+
+}
+.ccc{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 120px;
+    left: 200px;
+}
+.image1{
+    width: 50%;
+margin-top: 130px;
+
+}
+.image1 img{
+    width: 750px;
+}
+.btn{
+    padding:15px 30px;
+    font-size: 20px;
+    background-color:#db2191 ;
+    color: white;
+    list-style: none;
+    border: none;
+}
+/*section1 end*/
+/*section 2 start*/
+.section2{
+display: flex;
+margin-left: 230px;
+
+}
+.box{
+margin-left: 40px;
+
+
+
+}
+.sports{
+background-color: white;
+margin-top: 40px;
+padding: 20px;
+
+}
+.photo{
+
+}
+.photo img{
+    width: 400px;
+}
+
+.content1{
+
+}
+.content1 h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    line-height: 50px;
+}
+.content1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color:#110a0a93;
+}
+/*section2 end*/
+/*section3 start*/
+.section3{
+
+}
+.box2{
+display: flex;
+justify-content:space-around;
+}
+.content2{
+    width: 50%;
+font-family: Arial, Helvetica, sans-serif;
+position: relative;
+top: 230px;
+left: 200px;
+
+}
+.content2 #heading{
+    font-size: 65px;
+}
+.content2 #paragraph{
+    font-size: 25px;
+    line-height: 40px;
+    color:#110a0a93;
+}
+.photo1{
+    width: 50%;
+margin-top: 170px;
+
+}
+.photo1 img{
+    width: 800px;
+}
+.btn{
+    position: relative;
+    top: 20px;
+}
+/*section3 end*/
+/*section4 start*/
+.section4{
+margin-left: 550px;
+margin-top: 100px;
+
+}
+.logo1{
+
+}
+.logo1 img{
+    width: 600px;
+}
+.icon{
+
+    margin-top: 20px;
+    margin-left: 130px;
+}
+.icon img{
+    width: 50px;
+    margin-left: 20px;
+}
+#hhh{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding: 40px 0px;
+    font-weight: 300;
+}
